@@ -18,3 +18,5 @@ exports.handler = async (event, context, callback) => {
     throw err;
   }
 };
+
+exports.main = boditrax
